@@ -2,16 +2,11 @@
 
 Hi there! I'm Trinh, a self-taught data analyst. With a background in major at Ho Chi Minh City University of Technology - Industrial Management, I transitioned to data in early 2023 and have been teaching myself SQL, Python, and Power BI ever since
 
-### 💡 My Skills
-- Data preparation and analysis
-- Database design and modelling
-- Dashboard development and reporting
-- Exploratory data analysis
+### 💡Soft Skills
+Problem-solving, Critical Thinking, Cross-functional Collaboration, Communication, Adaptability.
 
-### 🛠️ My Tools
-- Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel
-- Python: NumPy, Pandas
-- Visualization: Matplotlib, Power BI
+### 💡Technical Skills
+Data Analysis, Data Visualization, SQL, Python, Power BI, Looker Studio, GA4, BigQuery, GTM, Salesforce.
 
 
 <!---
